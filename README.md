@@ -1,1 +1,1 @@
-# gridurok
+# html/css page no-adaptive
